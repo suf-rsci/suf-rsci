@@ -3,10 +3,10 @@
 ## About Me
 I'm a physicist, research scientist, and tech enthusiast passionate about exploring machine learning, statistics, physics, and programming to solve unique challenges. 
 
-I love building tools and writing educational content to help others, and I'm the creator of [Research Data Pod](https://researchdatapod.com), where I share knowledge about programming, data science, and machine learning.
+I love building tools and writing educational content to help others, and I'm the creator of [The Research Scientist Pod](https://researchdatapod.com), where I share knowledge about programming, data science, and machine learning.
 
 ### 🔭 Current Projects
-- Enhancing [Research Data Pod](https://researchdatapod.com) with interactive tools like [data science calculators](https://researchdatapod.com/data-science-tools/calculators/).
+- Enhancing [The Research Scientist Pod](https://researchdatapod.com) with interactive tools like [data science calculators](https://researchdatapod.com/data-science-tools/calculators/).
 - Developing JavaScript-based visualizers for sorting algorithms and Brownian motion.
 - Writing a blog series on sorting algorithms in multiple programming languages.
 
