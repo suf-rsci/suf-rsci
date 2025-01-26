@@ -25,7 +25,7 @@ Tools: Git, Docker, AWS, Firebase
 
 
 ### 📫 How to Reach Me
-- Website: [Research Data Pod](https://researchdatapod.com)
+- Website: [The Research Scientist Pod](https://researchdatapod.com)
 - LinkedIn: [Suf](https://linkedin.com/in/yusufushehu)
 - Twitter: [@scientist_pod](https://x.com/scientist_pod)
 
